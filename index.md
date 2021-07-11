@@ -6,4 +6,4 @@ layout: default
 
 _yay_
 
-[back](./)
+[other_page](./blog.html).
